@@ -4,6 +4,7 @@ import NavBar from "./components/navbar";
 import ImageOfCar from "./components/image-of-car";
 import Sponsors from "./components/sponsors";
 
+//REMEMBER TO COMMIT ALL CHANGES
 function App() {
   return (
     <div class='container bg-primary'>
